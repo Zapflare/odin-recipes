@@ -1,0 +1,1 @@
+This project is about creating a basic website to further enhance my HTML skills.
